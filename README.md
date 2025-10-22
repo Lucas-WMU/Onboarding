@@ -1,15 +1,15 @@
-# C&DH Tutorials
+# CDH Tutorials
 
 Welcome to the Command and Data Handling (CDH) Tutorials repository!  
-This is where you'll find basic tutorials and guides for software and tools used in our CanSat project.
+This is where you'll find basic tutorials and guides for software and tools used in our projects.
 
 ---
 
 ## 🚀 Getting Started
 1. Setting up WSL (Windows Subsystem for Linux)
-2. Installing and using VS Code
-3. Writing your first "Hello, World!" in C++
-4. Introduction to Git and GitHub
+2. Introduction to Git and GitHub
+3. Installing and using VS Code
+4. Writing your first "Hello, World!" in C++
 
 ---
 
