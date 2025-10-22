@@ -15,4 +15,5 @@ You can find installation instructions and information on Ubunutu and many other
 Once WSL is installed and setup according to Linux Journey, open it and make sure it says something like:
 
 Welcome to Ubuntu 22.04.4 LTS (GNU/Linux 6.6.87.2-microsoft-standard-WSL2 x86_64)
+
 your_user:~$
